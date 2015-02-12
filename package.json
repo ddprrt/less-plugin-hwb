@@ -1,0 +1,29 @@
+{
+  "name": "less-plugin-hwb",
+  "version": "0.0.1",
+  "description": "A LESS plugin for HWB colors",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddprrt/less-plugin-hwb"
+  },
+  "keywords": [
+    "less",
+    "plugins",
+    "hwb",
+    "color",
+    "functions"
+  ],
+  "author": "Stefan Baumgartner (@ddprrt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddprrt/less-plugin-hwb/issues"
+  },
+  "homepage": "https://github.com/ddprrt/less-plugin-hwb",
+  "devDependencies": {
+    "less": "^2.4.0"
+  }
+}
